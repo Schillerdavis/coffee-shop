@@ -13,7 +13,7 @@ export const Container = styled.label`
   background-color: ${({ theme }) => theme.button};
   color: ${({ theme }) => theme.text};
   text-transform: uppercase;
-  ${mixins.fonts.tag};
+  ${mixins.fonts.buttonM};
   transition: all 0.2s;
 
   > span {

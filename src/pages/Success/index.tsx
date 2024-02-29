@@ -82,7 +82,7 @@ export function Success() {
         </Info>
       </Order>
 
-      <img src="../../src/assets/illustration.svg" alt="Pedido concluído" />
+      <img src="../../illustration.svg" alt="Pedido concluído" />
     </ContainerSuccess>
   )
 }

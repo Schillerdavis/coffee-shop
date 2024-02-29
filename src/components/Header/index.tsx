@@ -9,11 +9,7 @@ export function Header() {
   return (
     <Container>
       <Link to="/">
-        <img
-          src={'../../src/assets/logo.svg'}
-          id="logo"
-          alt="Coffee Delivery"
-        />
+        <img src={'../../logo.svg'} id="logo" alt="Coffee Delivery" />
       </Link>
 
       <Aside>

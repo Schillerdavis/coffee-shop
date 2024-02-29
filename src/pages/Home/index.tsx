@@ -66,14 +66,10 @@ export function Home() {
             </Info>
           </div>
 
-          <img
-            src="../../src/assets/coffee.svg"
-            id="coffee"
-            alt="Café do Coffee Delivery"
-          />
+          <img src="./coffee.svg" id="coffee" alt="Café do Coffee Delivery" />
         </HeroContent>
 
-        <img src="../../src/assets/bg-coffee.svg" id="bg-coffee" alt="" />
+        <img src="./bg-coffee.svg" id="bg-coffee" alt="" />
       </Hero>
 
       <CoffeeList>
